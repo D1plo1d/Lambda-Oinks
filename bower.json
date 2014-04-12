@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "jquery": "1.10.2",
-    "bootstrap-stylus": "*",
+    "bootstrap": "*",
+    "fontawesome": "*",
     "highlightjs": "*",
     "mathbox": "https://github.com/D1plo1d/MathBox.js.git"
   }
